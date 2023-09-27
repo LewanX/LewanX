@@ -1,41 +1,44 @@
-# Mi Perfil como Desarrollador Web Trainee
+<div align="center">
 
-## Sobre Mí
-¡Hola! Soy un apasionado desarrollador web trainee con experiencia en una variedad de tecnologías. Mi objetivo es seguir aprendiendo y creciendo en el mundo de la programación web.
+# Hi, I'm Alan Jason 👋
 
-## Habilidades Técnicas
-- **Tecnologías Web:** .NET Core, Blazor, Bootstrap, HTML, CSS
-- **Bases de Datos:** SQL, MySQL
-- **Lenguajes de Programación:** C++, Java
+## About Me
+I'm a passionate web developer trainee with experience in a variety of technologies. My goal is to continue learning and growing in the world of web development.
 
-## Proyectos Destacados
-### Desarrollo con Blazor
-- Desarrollé aplicaciones web modernas y dinámicas utilizando Blazor, lo que me permitió crear experiencias de usuario interactivas y eficientes.
+## Technical Skills
+- **Web Technologies:** .NET Core, Blazor, Bootstrap, HTML, CSS
+- **Databases:** SQL, MySQL
+- **Programming Languages:** C++, Java
 
-### Diseño Responsivo con Bootstrap
-- Utilicé Bootstrap para crear sitios web completamente responsivos y atractivos, garantizando una excelente experiencia en dispositivos móviles y de escritorio.
+## Featured Projects
+### Blazor Development
+I've developed modern and dynamic web applications using Blazor, allowing me to create interactive and efficient user experiences.
 
-### Gestión de Datos con SQL y MySQL
-- He trabajado en proyectos que involucran el diseño de bases de datos, consultas SQL avanzadas y la optimización del rendimiento de bases de datos MySQL.
+### Responsive Design with Bootstrap
+I've used Bootstrap to create fully responsive and visually appealing websites, ensuring an excellent experience on both mobile and desktop devices.
 
-## Educación
-- [Nombre de la Institución]: [Título Obtenido], [Año de Graduación]
-- [Nombre de la Institución]: [Título Obtenido], [Año de Graduación]
+### Data Management with SQL and MySQL
+I've worked on projects involving database design, advanced SQL queries, and optimizing MySQL database performance.
 
-## Certificaciones
-- [Certificación]: [Nombre del Proveedor], [Año de Obtención]
+## Education
+- [Institution Name]: [Degree Earned], [Graduation Year]
+- [Institution Name]: [Degree Earned], [Graduation Year]
 
-## Contacto
-¡Estoy emocionado por nuevas oportunidades de aprendizaje y colaboración! No dudes en contactarme:
-- [Correo Electrónico](mailto:tuemail@example.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- [GitHub](https://github.com/tu-usuario)
+## Certifications
+- [Certification]: [Provider Name], [Year Obtained]
 
-## ¡Hablemos de Tecnología!
-Soy un apasionado por la tecnología y estoy dispuesto a aprender siempre algo nuevo. ¡Hablemos de desarrollo web, programación o cualquier cosa relacionada con la tecnología!
+## Contact
+I'm excited about new learning opportunities and collaborations! Feel free to reach out:
+- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [GitHub](https://github.com/your-username)
 
-[Icono de LinkedIn](https://www.iconfinder.com/icons/5345552/linkedin_icon) | [Icono de GitHub](https://www.iconfinder.com/icons/1064183/github_social_media_social_network_icon)
+## Let's Talk Tech!
+I'm passionate about technology and always eager to learn something new. Let's chat about web development, programming, or anything tech-related!
 
+[LinkedIn Icon](https://www.iconfinder.com/icons/5345552/linkedin_icon) | [GitHub Icon](https://www.iconfinder.com/icons/1064183/github_social_media_social_network_icon)
+
+</div>
 
 
 
