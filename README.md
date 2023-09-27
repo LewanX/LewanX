@@ -33,7 +33,11 @@
     <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=LewanX&show_icons=true&theme=tokyonight" />&nbsp;
   <img height=200  width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewanX&hide_progress=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </div>
+## Connect with me:
 
+<p align = "center">
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />]([https://www.linkedin.com/in/durgeshsamariya/](https://www.linkedin.com/in/alan-lewandowski/))
+</p>
 
 <!--
 **LewanX/LewanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
