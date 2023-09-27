@@ -27,6 +27,15 @@
 <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" height="25" />
 
+
+### ⚙️ &nbsp;GitHub Analytics
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LewanX&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewanX&hide_progress=true&theme=tokyonight" />
+</a>
+
 <!--
 **LewanX/LewanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
