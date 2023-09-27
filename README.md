@@ -1,46 +1,31 @@
-<div align="center">
+### 🛠 &nbsp;Tech Stack
 
-# Hi, I'm Alan Jason 👋
+#### Frontend & Backend
+<img src="https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=.net&logoColor=512BD4" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="40" />&nbsp;
 
-## About Me
-I'm a passionate web developer trainee with experience in a variety of technologies. My goal is to continue learning and growing in the world of web development.
+#### IDEs
+<img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-Code::Blocks-05122A?style=flat&logo=codeblocks&logoColor=2C2255" height="40" />
 
-## Technical Skills
-- **Web Technologies:** .NET Core, Blazor, Bootstrap, HTML, CSS
-- **Databases:** SQL, MySQL
-- **Programming Languages:** C++, Java
+#### Version Control
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" height="40" />
 
-## Featured Projects
-### Blazor Development
-I've developed modern and dynamic web applications using Blazor, allowing me to create interactive and efficient user experiences.
+#### Database
+<img src="https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1" height="40" />
 
-### Responsive Design with Bootstrap
-I've used Bootstrap to create fully responsive and visually appealing websites, ensuring an excellent experience on both mobile and desktop devices.
-
-### Data Management with SQL and MySQL
-I've worked on projects involving database design, advanced SQL queries, and optimizing MySQL database performance.
-
-## Education
-- [Institution Name]: [Degree Earned], [Graduation Year]
-- [Institution Name]: [Degree Earned], [Graduation Year]
-
-## Certifications
-- [Certification]: [Provider Name], [Year Obtained]
-
-## Contact
-I'm excited about new learning opportunities and collaborations! Feel free to reach out:
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
-
-## Let's Talk Tech!
-I'm passionate about technology and always eager to learn something new. Let's chat about web development, programming, or anything tech-related!
-
-[LinkedIn Icon](https://www.iconfinder.com/icons/5345552/linkedin_icon) | [GitHub Icon](https://www.iconfinder.com/icons/1064183/github_social_media_social_network_icon)
-
-</div>
-
-
+#### Design
+<img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" height="40" />
 
 <!--
 **LewanX/LewanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
